@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **DSA in C++ and Js**
+- 🌱 I’m currently learning **DSA in C++ and Django**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/Vasavi07](https://www.behance.net/Vasavi07)
 
