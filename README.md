@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vasavi Prakash</h1>
-<h3 align="center">Open Source Enthusiast,UI/UX Designer,Frontend Developer</h3>
+<h3 align="center">BlockChain Enthusiast,Backend Developer,Open Source</h3>
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **Web3 & Open Source**
 
-- 🌱 I’m currently learning **Node.js and blockchain**
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/Vasavi07](https://www.behance.net/Vasavi07)
+- 🌱 I’m currently learning **Node.js & blockchain**
 
 - 💬 Ask me about **BlockChain**
 
