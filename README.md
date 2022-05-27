@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Node.js and blockchain**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/Vasavi07](https://www.behance.net/Vasavi07)
 
-- 💬 Ask me about **UI/UX**
+- 💬 Ask me about **BlockChain**
 
 - 📫 How to reach me **prakashzz.0712@gmail.com**
 
