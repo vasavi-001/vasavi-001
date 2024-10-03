@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vasavi Prakash</h1>
-<h3 align="center">BlockChain Enthusiast,Backend Developer,Open Source</h3>
+<h3 align="center">Entreprenuer,Backend Developer,Open Source</h3>
 
-- 🔭 I’m currently working on **Web3 & Open Source**
+- 🔭 I’m currently working on **Open Source**
 
 - 🌱 I’m currently learning **Node.js & blockchain**
 
-- 💬 Ask me about **BlockChain**
+- 💬 Let's discuss about **Startups, Development and Blockchain**
 
 - 📫 How to reach me **prakashzz.0712@gmail.com**
 
