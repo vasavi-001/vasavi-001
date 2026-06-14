@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vasavi Prakash</h1>
 <h3 align="center">Entreprenuer, Product and Growth</h3>
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **Building Something**
 
-- 🌱 I’m currently learning **Node.js & blockchain**
+- 🌱 I’m currently learning **Rag Systems, RL Enviornmnets**
 
-- 💬 Let's discuss about **Startups, Development and Blockchain**
+- 💬 Let's discuss about **Startups and Product Psychology**
 
 - 📫 How to reach me **prakashzz.0712@gmail.com**
 
