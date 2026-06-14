@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasavi Prakash</h1>
-<h3 align="center">Entreprenuer,Product and Growth</h3>
+<h3 align="center">Entreprenuer, Product and Growth</h3>
 
 - 🔭 I’m currently working on **Open Source**
 
